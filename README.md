@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]!
+👋 Hi, I'm JavadMirza!
 
 🚀 Full-Stack Developer & WordPress Specialist  
 💻 Passionate about building websites, web apps, and mobile apps.
@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats
 
-![Your github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your github stats](https://github-readme-stats.vercel.app/api?username=javadmirza&show_icons=true&theme=radical)
 
 ---
 
