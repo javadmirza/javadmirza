@@ -6,7 +6,7 @@
 🎓 Studied Computer Science (or your field)  
 📚 Currently learning more about AI integrations and advanced frontend frameworks.
 
-🔗 Check out my [Portfolio](#) | [LinkedIn](#) | [YouTube](#)
+🔗 Check out my [ [LinkedIn]([javadmirzaalizadeh](https://ir.linkedin.com/in/javadmirzaalizadeh)) | [instagram]([#](https://www.instagram.com/mirza.soft?igsh=MTZtYng4OXVlbGU1aw==))
 
 ---
 
@@ -28,6 +28,8 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![NOtion](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Figma](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
 
