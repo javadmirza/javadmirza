@@ -10,7 +10,6 @@
 
 ---
 
-### 🚀 Tech Stack
 
 ## 🧠 Tech Stack - Categorized
 
